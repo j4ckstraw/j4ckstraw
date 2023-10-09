@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=j4ckstraw)](https://j4ckstraw.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j4ckstraw&exclude_repo=blog,j4ckstraw.github.io)](https://j4ckstraw.github.io/)
+
+<!--
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=j4ckstraw&show_icons=true&hide_border=true&count_private=false&theme=github_dark&include_all_commits=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=j4ckstraw&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400"/>
+</p>
+-->
